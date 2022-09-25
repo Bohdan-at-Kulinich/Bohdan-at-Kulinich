@@ -2,10 +2,10 @@
 **I am Bohdan Kulinich :thumbsup:**
 
 
-- 🎓 I have a BA degrees in physics and biochemistry
+- 🎓 I have BA degrees in physics and biochemistry
 - 🔭 I’m currently pursuing a Masters degree in physics
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on any project realated to Data Science
+- 👯 I’m looking to collaborate on any project related to Data Science
 
 <!--
 **Bohdan-at-Kulinich/Bohdan-at-Kulinich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
